@@ -32,5 +32,5 @@ end
 
 
 def find_a(array)
-  array.find {|x| x[0] = "a"}
+  array.find_all {|x| x[0] = "a"}
 end
