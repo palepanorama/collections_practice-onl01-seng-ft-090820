@@ -27,5 +27,5 @@ end
 
 
 def kesha_maker
-  
+  new_array = 
 end 
