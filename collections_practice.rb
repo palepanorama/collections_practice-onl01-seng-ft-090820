@@ -27,5 +27,5 @@ end
 
 
 def kesha_maker
-  array.each 
+  array.each {|x| 
 end 
