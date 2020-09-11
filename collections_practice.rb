@@ -29,4 +29,3 @@ end
 def kesha_maker
   array.each {|x| x[3] = "$"}
 end 
-end 
