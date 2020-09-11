@@ -45,6 +45,6 @@ end
 
 def add_s(array)
   array.collect do |x|
-    if x
+    if 
   end 
 end 
