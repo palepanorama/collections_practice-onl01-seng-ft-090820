@@ -44,5 +44,7 @@ end
 
 
 def add_s
-  
+  array.collect do |word|
+    
+  end 
 end 
