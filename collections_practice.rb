@@ -39,5 +39,5 @@ end
 def sum_array
   sum = 0
   array.each {|x| sum += x}
-  end
   sum 
+end 
