@@ -8,5 +8,6 @@ end
 
 def sort_array_char_count(array)
   new_array = array.downcase
+  array.sort 
   end
 
