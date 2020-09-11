@@ -27,5 +27,6 @@ end
 
 
 def kesha_maker
-  array.each {|x| 
+  array.each {|x| x[2] = "$"}
+end 
 end 
